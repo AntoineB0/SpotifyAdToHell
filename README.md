@@ -1,5 +1,7 @@
 # SpotifyAdToHELL
 
+![alt text](https://github.com/AntoineB0/SpotifyAdToHell/blob/main/SpotifyAdToHell.png)
+
 **SpotifyAdToHELL** est un script AutoHotkey (AHK) qui permet de redémarrer automatiquement Spotify via un raccourci clavier pour potentiellement contourner les publicités ou corriger des bugs d'exécution.
 
 ## Fonctionnalités
